@@ -1,0 +1,7 @@
+server:
+  port: 9001
+
+hsm:
+  slotNumber: 0
+  tokenPin: 1234
+  pkcs11ModuleName: C:\SoftHSM2\lib\softhsm2-x64.dll
